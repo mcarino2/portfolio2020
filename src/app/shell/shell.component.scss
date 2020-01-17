@@ -1,0 +1,49 @@
+:host {
+  display: flex;
+  flex: 1;
+}
+
+.mat-sidenav {
+  min-width: 270px;
+  max-width: 28%;
+}
+
+.has-border {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.mat-list {
+  padding-top: 0;
+}
+
+.mat-list-item {
+  text-decoration: none;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.05);
+  }
+}
+
+.menu-button {
+  margin-right: 1rem;
+}
+
+.shell-container {
+  $bgHeader: linear-gradient(to bottom, #09203f 0%,#537895 100%);
+  $bgLight: linear-gradient(to bottom, #fdfbfb 0%,#ebedee 100%);
+  $bgDark: linear-gradient(to bottom, #434343 0%,#000000 100%);
+
+  .mat-toolbar {
+    background: $bgHeader;
+  }
+
+  .mat-sidenav, .mat-sidenav-content {
+    background: $bgLight;
+  }
+
+  &.theme-alternate {
+    .mat-sidenav, .mat-sidenav-content {
+      background: $bgDark;
+    }
+  }
+}

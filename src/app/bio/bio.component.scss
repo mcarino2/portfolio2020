@@ -1,0 +1,11 @@
+#bio {
+  padding: 1em;
+
+  ::ng-deep .mat-card-content {
+    blockquote {
+      border-left: 10px solid;
+      padding-left: 10px;
+      margin-left: 20px;
+    }
+  }
+}

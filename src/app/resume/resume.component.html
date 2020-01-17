@@ -1,0 +1,37 @@
+<div id="resume">
+    <mat-tab-group mat-stretch-tabs>
+        <mat-tab label="Experience">
+            <mat-accordion>
+                <mat-expansion-panel *ngFor="let r of resume.experience">
+                    <mat-expansion-panel-header>
+                        <mat-panel-title [innerHTML]="headerDisplay(r)"></mat-panel-title>
+                    </mat-expansion-panel-header>
+                    <ul class="heading">
+                        <li [innerHTML]="r.title"></li>
+                        <li [innerHTML]="r.location"></li>
+                    </ul>
+                    <ul>
+                        <li *ngFor="let i of r.responsibilities" [innerHTML]="i"></li>
+                    </ul>
+                    <mat-chip-list>
+                        <mat-chip color="accent" *ngFor="let e of r.environment" [innerHTML]="e"></mat-chip>
+                    </mat-chip-list>
+                </mat-expansion-panel>
+            </mat-accordion>
+        </mat-tab>
+        <mat-tab label="Education">
+            <mat-accordion>
+                <mat-expansion-panel *ngFor="let r of resume.education">
+                    <mat-expansion-panel-header>
+                        <mat-panel-title [innerHTML]="r.school"></mat-panel-title>
+                    </mat-expansion-panel-header>
+                    <ul class="heading">
+                        <li [innerHTML]="r.location"></li>
+                        <li [innerHTML]="r.study"></li>
+                        <li>{{r.startYear}} - {{r.endYear}}</li>
+                    </ul>
+                </mat-expansion-panel>
+            </mat-accordion>
+        </mat-tab>
+    </mat-tab-group>
+</div>

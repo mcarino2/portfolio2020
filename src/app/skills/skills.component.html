@@ -1,0 +1,31 @@
+<div id="skills">
+    <mat-accordion>
+        <mat-expansion-panel *ngFor="let r of skills">
+            <mat-expansion-panel-header>
+                <mat-panel-title>
+                    <mat-icon>{{r.icon}}</mat-icon>&nbsp;{{r.heading}}
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <table mat-table [dataSource]="r.items" class="mat-elevation-z8">
+                <ng-container matColumnDef="title">
+                    <th mat-header-cell *matHeaderCellDef>Title</th>
+                    <td mat-cell *matCellDef="let element"> {{element.title}} </td>
+                </ng-container>
+                <ng-container matColumnDef="yearsExp">
+                    <th mat-header-cell *matHeaderCellDef>Years Exp.</th>
+                    <td mat-cell *matCellDef="let element"> {{element.yearsExp}} </td>
+                </ng-container>
+                <ng-container matColumnDef="yearLastUsed">
+                    <th mat-header-cell *matHeaderCellDef>Last Used</th>
+                    <td mat-cell *matCellDef="let element"> {{element.yearLastUsed}} </td>
+                </ng-container>
+                <ng-container matColumnDef="selfRating">
+                    <th mat-header-cell *matHeaderCellDef>Rating</th>
+                    <td mat-cell *matCellDef="let element"> {{element.selfRating}} </td>
+                </ng-container>
+                <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+            </table>
+        </mat-expansion-panel>
+    </mat-accordion>
+</div>

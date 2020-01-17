@@ -1,0 +1,1838 @@
+{
+    "data": {
+      "bio": "<blockquote><p><em>A question I'm always asked in regards to my experience being a developer is \"What part of web development do you like? Do you like the front-end or the back-end?\". I always reply to that \"It's all web development to me!\" It truly doesn't make a difference to me.</em></p></blockquote><p>Miguel Carino spent the majority of his career at the forefront of web development. He witnessed firsthand the internet from its hardwired dialup beginnings to its post PC flight to mobile and tablet devices. He's also witnessed firsthand the constantly evolving state of web development and is adept at quickly adapting to support it. He has worked on projects large and small, from startups to enterprise operations. To any operation, Miguel brings a detail-oriented approach and a relentless desire to learn and apply new technologies. </p><p>Miguel was born and raised in the San Fernando Valley where he was always passionate about music and computers. In 1991, He and his family relocated to Jacksonville, Florida. This was where his passions for music and his love of computers came together with the rise of the internet in the mid 1990's. A lifelong Depeche Mode fan, Miguel created and launched his first website Bongbishop Central in 1997. The site featured the band's music videos along with presenting a visual representation of the band's discography. Some of these videos had never aired in the US, let alone seen by fans in other nations. Needless to say, it was well received worldwide. It also caught the attention of one of the band's former members: Alan Wilder.</p><p>Alan Wilder had left Depeche Mode in 1995 and focused on his then side project Recoil on a permanent basis. Prior to that, with Depeche Mode, he took part in the first internet chat directly with their fans. Alan's Recoil project took it a step further and immediately embraced the internet with a website of his own to support his subsequent releases. He caught wind of what Miguel was doing with his site and contacted him about an online collaboration to support Depeche Mode's release of The Singles 86&gt;98: Alan's memoirs of Depeche Mode tied in with Miguel's videos. The showcase was an immediate hit with fans and brought Miguel further acclaim for his work.</p><p>After that experience, it was clear that Miguel found his calling in building websites. He would be called upon to build websites for local bands in Jacksonville as well as for local startups. His hobby had now become a career. He took to learning and applying CSS and JavaScript to his work as well as new ways to present multimedia content that further enhanced his sites.</p><blockquote><p><em>At the time, I remember the internet was replacing CD-Rom as the primary mechanism for delivering content to home computers. I knew it was huge to be able build something that the world could see immediately after publishing it. I had no idea the internet would be as ubiquitous and change our lives the way it has now, to say nothing about having a 15 year career in it.</em></p></blockquote><p>In 2002, the desire to return to the desert and to explore new growth opportunities led him to move to Las Vegas. There, he attended Computer-Ed Institute while working full time as a credit underwriter for HSBC. His curriculum included formal education in Java, Flash, ASP, Visual Basic, SQL, CSS, and JavaScript. These were technologies that were not taught in universities at the time. In 2004, he earned his diploma in Computer Programming with Web Technology and was a Valedictorian. Now, a full time web developer, he applied his newly acquired knowledge to work for several local startups where he would convert static web site into dynamic data-driven ones along with custom building content management systems.</p><p>He would move back to Florida in 2005 and in 2006, joined Fidelity National Financial to support their Wells Fargo YourMortgage website. The experience of supporting such a large site was immense. It was a place where he could apply the cumulative knowledge he had gained previously while learning how to operate in an enterprise environment. He was able to learn how to use SQL Server, stored procedures, and web service calls.</p><p>In 2007, Miguel was offered the opportunity of a lifetime: Relocating to Los Angeles to work for Capital Group. Trading in Florida humidity for California cool was a no-brainer. The opportunity also meant he was to trade in being a back-end ASP developer to a front-end web developer. It was an opportunity to sharpen his front-end skills amid the shifting paradigm which site functionality transferred from the server to the client. He quickly worked to support site maintenance activities and became adept at troubleshooting cross-browser related issues and contributed to evangelizing new front end technologies jQuery.</p><blockquote><p><em>It was an exciting time to work for Capital Group. The rise of HTML5, AJAX, CSS3, and jQuery was incredible. There was so much you could do on a page without having to load another page for additional features or functionality. It was a game-changer. And then came the iPhone.</em></p></blockquote><p>In 2010, Miguel accepted a position as a software engineer for Gorilla Nation. For as great as the opportunity was to work at such a large company, the opportunities to leverage the currently emerging front end technologies was even greater with Gorilla Nation. It was here where Miguel could leverage HTML5/CSS3/jQuery to its fullest. His back end knowledge at the time shifted from building sites in classic ASP to PHP. He quickly learned Joomla, a PHP based content management system that was also a MVC framework that was being used to support the websites. During his tenure there, he took part in successful site launches for the company's properties Momtastic, Sherdog Training Center, and LiveOutdoors. The single largest takeaway Miguel had from Gorilla Nation was the priceless experience of learning Agile from a firm that had fully integrated it throughout the entire business. Even the least technical of his peers operated within Agile. He was active in planning sessions, retros, standups, and negotiating conditions of acceptance.</p><p>In 2011, Miguel joined JobSync, a startup with the ambitions of becoming an eHarmony type website for jobseekers. From a front-end standpoint, he was given the keys to the kingdom as he leveraged the latest HTML5, CSS, and jQuery had to offer while supporting older browsers. His switch to using webkit as his primary development browser ensured a stellar performance in mobile and tablet devices. He managed the site's front end while learning Python and Django to assist back end development. He was instrumental in building a stunning user interface that would be used by jobseekers and employers alike.</p><p>In what would become the biggest opportunity of his career, Miguel joined Guthy-Renker in 2012. Guthy-Renker is the parent company of health and beauty products such as Wen, Meaningful Beauty, and most importantly, Proactiv. He made numerous contributions to the company's successful marketing campaigns. The majority of these campaigns were featured in the company's trademark informercials. This meant the infomercials pointed customers directly to his work.</p><p>Miguel worked under extremely tight deadlines to deliver while simultaneously learning Demandware. Guthy-Renker uses Demandware, an enterprise-class eCommerce platform, to support their sites. His passion to learn new technologies and dedication to deliver on the task at hand led to his promotion to a leadership role as a lead developer. In this capacity, he leveraged his Agile experience in supporting requirements gathering, sprint planning, release management, and the hiring and mentoring of other developers. All of this with the same enthusiasm he had when he was first building sites back in the late 90's.</p><p>In 2014, Miguel shifted his focus from web development to applications development when we joined Square One Solutions. He was quickly tasked with leading front end development for multiple clients while learning new technologies along the way. Among the new technologies was Angular. It allowed Miguel to build websites like he did with Classic ASP and PHP without the need of a server side technology to facilitate it.</p><blockquote><p><em>To call Angular a game changer is an understatement. I could build fully functional websites on the front end just like I used to on the back end. All I need is to integrate a data source and I can build up the rest. Incredibly empowering!</em></p></blockquote><p>His quick mastery of Angular did not go unnoticed. In 2015, Miguel embarked on the chance of a lifetime: to work for Apple in Silicon Valley. Apple's marketing communications department had a need for an experienced Angular developer and he fit right in. The experience transformed him from a senior developer into an architect - someone who can go beyond coding and define approaches and identify solutions before building. Miguel witnessed firsthand Apple’s approach to software development, always looking to get it right while working in additional features beyond what was required. It made a lasting impression and a new appreciation for his craft.</p><p>Miguel returned from Silicon Valley a changed developer and accepted a role as a User Interface Architect at UST Global. In addition to architecting solutions on the front end, he also led a development team. A demanding role, Miguel took the lead, laying a solid foundation for his developers to build on top of, providing mentoring and guidance to get the job done.</p><p>Miguel currently resides in Los Angeles. Along with his usual tinkering with new web development technologies, he is an avid sports fan who enjoys NFL and European Soccer games. He also enjoys music, live concerts, and traveling, especially weekend getaways up and down the California coastline while taking landscape photographs of his travels.</p>",
+      "timeline": [
+        {
+          "year": "1997",
+          "event": [
+            "Launches first web site, Bongbishop Central, A site that featured Depeche Mode videos."
+          ]
+        },
+        {
+          "year": "1998",
+          "event": [
+            "Contributes video content to Alan Wilder's Shunt website to promote Depeche Mode's The Singles 86>98 release.",
+            "Starts building sites for local bands in Jacksonville as a result."
+          ]
+        },
+        {
+          "year": "2000",
+          "event": [
+            "Relaunches his first site Bongbishop Central as Depechemode.tv. Later becomes top destination for Depeche Mode videos."
+          ]
+        },
+        {
+          "year": "2002",
+          "event": [
+            "Relocates to Las Vegas."
+          ]
+        },
+        {
+          "year": "2004",
+          "event": [
+            "Earns diploma in Computer Programming with Web Technology at Computer-Ed Institute.",
+            "Works for several area startups leveraging newly acquired back-end knowledge to create dynamic ASP websites."
+          ]
+        },
+        {
+          "year": "2006",
+          "event": [
+            "Relocates back to Jacksonville, Florida.",
+            "Works for Fidelity National Financial on their Wells Fargo YourMortgage website."
+          ]
+        },
+        {
+          "year": "2007",
+          "event": [
+            "Relocates back to Los Angeles.",
+            "Joins Capital Group as a Front End Web Developer supporting their Retirement Planning site."
+          ]
+        },
+        {
+          "year": "2009",
+          "event": [
+            "Begins work on supporting Capital Group's flagship American Funds site."
+          ]
+        },
+        {
+          "year": "2010",
+          "event": [
+            "Accepts Software Engineer role at Gorilla Nation.",
+            "Works on supporting their properties including Superhero Hype, Comingsoon.net, and The Fashion Spot.",
+            "Takes part in launching new portals Momtastic and LiveOutdoors, built with HTML5/CSS3",
+            "Learns Joomla and Agile."
+          ]
+        },
+        {
+          "year": "2011",
+          "event": [
+            "Accepts role as a Senior Web Developer for Santa Monica based startup Jobsync, which successfully launches that year. Manages the site's front end codebase.",
+            "Learns Python and Django to help with the launch."
+          ]
+        },
+        {
+          "year": "2012",
+          "event": [
+            "Joins Guthy-Renker supporting their eCommerce sites including Proactive, Wen Hair Care, and Meaningful Beauty.",
+            "Learns Demandware.",
+            "Becomes lead web developer."
+          ]
+        },
+        {
+          "year": "2014",
+          "event": [
+            "Joins Square One Solutions as a Senior UI Developer.",
+            "Learns Angular, Backbone, and Bootstrap",
+            "Quietly relaunches Depechemode.tv as a strictly front-end, responsive website built with Angular and Bootstrap."
+          ]
+        },
+        {
+          "year": "2015",
+          "event": [
+            "Accepts role at Apple as a Senior UI/UX Developer"
+          ]
+        },
+        {
+          "year": "2016",
+          "event": [
+            "Becomes a UI Architect for UST Global."
+          ]
+        }
+      ],
+      "resume": [
+        {
+          "education": [
+            {
+              "school": "Computer Ed Institute",
+              "location": "Henderson, NV",
+              "study": "Diploma, Computer Programming with Web Technology",
+              "startYear": 2003,
+              "endYear": 2004
+            }
+          ],
+          "experience": [
+            {
+              "company": "Sapient Razorfish",
+              "title": "Presentation Layer Engineer",
+              "location": "El Segundo, CA",
+              "startDate": 2016,
+              "endDate": 2017,
+              "environment": [
+                "HTML5",
+                "CSS3",
+                "Javascript",
+                "JSON",
+                "jQuery",
+                ".NET",
+                "Node",
+                "Bootstrap",
+                "SASS",
+                "Git",
+                "Responsive Design"
+              ],
+              "responsibilities": [
+                "Responsible for implementing UI feature development for client Honda’s website. ",
+                "Performed bug fixes, performance optimization, and code cleanup.",
+                "Supported desktop, tablet and mobile devices."
+              ]
+            },
+            {
+              "company": "UST Global",
+              "title": "UI Architect / Angular Lead",
+              "location": "Aliso Viejo, CA",
+              "startDate": 2016,
+              "endDate": 2016,
+              "environment": [
+                "HTML5",
+                "CSS3",
+                "Javascript",
+                "JSON",
+                "Java",
+                "Angular",
+                "Node",
+                "Bootstrap",
+                "Jasmine",
+                "SASS",
+                "Git",
+                "SVN"
+              ],
+              "responsibilities": [
+                "Lead and architected Angular UI development for UST Global’s Media Services department. ",
+                "Managed a team of 6 UI developers, planning and assigning tasks to them.",
+                "Liaised with back end oﬀshore resources to negotiate UI contracts for API services. ",
+                "Established coding standards and style guides for developers to follow. ",
+                "Performed and provided code reviews, mentoring, and best practices to developers to follow. "
+              ]
+            },
+            {
+              "company": "Apple",
+              "title": "Senior UI/UX Developer",
+              "location": "Sunnyvale, CA",
+              "startDate": 2015,
+              "endDate": 2016,
+              "environment": [
+                "HTML5",
+                "CSS3",
+                "Javascript",
+                "JSON",
+                "jQuery",
+                "Java",
+                "Angular",
+                "Node",
+                "Bootstrap",
+                "Jasmine",
+                "SASS",
+                "Git",
+                "SVN",
+                "Oracle",
+                "MongoDB"
+              ],
+              "responsibilities": [
+                "Responsible for providing front end code, styles, and functionality to Apple’s marketing communications department.\n",
+                "Lead development on some of Apple’s first applications in Angular.",
+                "Evangelized new technologies and frameworks to coworkers and stakeholders.",
+                "Coordinated daily bug triage meetings with QA to determine severity and priority of bugs found.",
+                "Performed demos of completed functionality to stakeholders at the end of sprints."
+              ]
+            },
+            {
+              "company": "Square One Solutions",
+              "title": "Senior UI Developer ",
+              "location": "Culver City, CA",
+              "startDate": 2014,
+              "endDate": 2015,
+              "environment": [
+                "HTML5",
+                "CSS3",
+                "Javascript",
+                "JSON",
+                "jQuery",
+                "Angular",
+                "Backbone",
+                "Node",
+                "Bootstrap",
+                "XML",
+                "LESS",
+                "Responsive Design",
+                "Git",
+                "SVN"
+              ],
+              "responsibilities": [
+                "Responsible for providing front end code, styles, and functionality to Square One Solutions’ clients.\n",
+                "Performed requirements gathering, project management, and code reviews with other developers.\n",
+                "Participated in building proof of concepts for other potential clients.\n",
+                "Supported desktop and mobile via Bootstrap."
+              ]
+            },
+            {
+              "company": "Age of Learning, Inc.",
+              "title": "Lead PHP Developer",
+              "location": "Glendale, CA\n\n",
+              "startDate": 2013,
+              "endDate": 2014,
+              "environment": [
+                "PHP",
+                "HTML5",
+                "CSS3",
+                "Javascript",
+                "MYSQL",
+                "iPad"
+              ],
+              "responsibilities": [
+                "Responsible for implementing new features in HTML5 for abcmouse.com. \n",
+                "Also responsible for bug fixes, HTML5 performance optimization, and code cleanup.",
+                "Supported desktop website and mobile iPad app.\n"
+              ]
+            },
+            {
+              "company": "Guthy-Renker",
+              "title": "Lead Web Developer",
+              "location": "Santa Monica, CA",
+              "startDate": 2012,
+              "endDate": 2013,
+              "environment": [
+                "Demandware",
+                "PHP",
+                "HTML5",
+                "CSS3",
+                "jQuery",
+                "SVN",
+                "Photoshop",
+                "Omniture SiteCatalyst",
+                "Adobe Test and Target",
+                "Mobile",
+                "Responsive Design"
+              ],
+              "responsibilities": [
+                "Responsible for managing updates and maintenance of front-end code for Guthy-Renker’s properties including Proactiv (proactiv.com), Wen Hair Care (wenhaircare.com), and Meaningful Beauty (meaningfulbeauty.com).\n",
+                "Managed weekly build workflows, determined level of effort, and assigned work to other developers.\n",
+                "Took part in site redesigns, landing page campaigns, and email marketing templates.\n",
+                "Planned and implemented new features and initiatives for current and future versions of the sites.\n",
+                "Learned Demandware to help assist with various time-sensitive promotional campaigns.\n"
+              ]
+            },
+            {
+              "company": "Jobsync",
+              "title": "Sr. Front End Web Developer ",
+              "location": "Santa Monica, CA",
+              "startDate": 2011,
+              "endDate": 2012,
+              "environment": [
+                "Python",
+                "Django",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "jQuery",
+                "AJAX",
+                "JSON",
+                "Git",
+                "Photoshop"
+              ],
+              "responsibilities": [
+                "Managed the updates and maintenance of front-end code for Jobsync.com.\n",
+                "Optimized and streamlined the codebase using HTML5/CSS3/jQuery.\n",
+                "Planned and implemented new features and initiatives for current and future versions of the site.\n",
+                "Took part in a successful startup site launch.\n",
+                "Learned Python and Django to help assist the back end with development.\n"
+              ]
+            },
+            {
+              "company": "Gorilla Nation / Evolve Media",
+              "title": "Software Engineer ",
+              "location": "Los Angeles, CA",
+              "startDate": 2010,
+              "endDate": 2011,
+              "environment": [
+                "PHP",
+                "MYSQL",
+                "Joomla",
+                "XML",
+                "XHTML",
+                "HTML5",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "Flash",
+                "Photoshop",
+                "SVN"
+              ],
+              "responsibilities": [
+                "Responsible for the update and maintenance of code for Evolve Media’s websites.\n",
+                "Built standalone microsites for ad campaigns and promotions.",
+                "Built and maintained Joomla components and modules offering new features and functionality to supported websites.\n",
+                "Successfully launched liveoutdoors.com, a hub for hunting and outdoors, all done in HTML5.\n"
+              ]
+            },
+            {
+              "company": "Capital Group",
+              "title": "Front End Web Developer",
+              "location": "Los Angeles, CA\n",
+              "startDate": 2007,
+              "endDate": 2010,
+              "environment": [
+                "JSP",
+                "XML",
+                "XHTML",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "Flex",
+                "Omniture SiteCatalyst",
+                "Rational ClearCase",
+                "Rational ClearQuest"
+              ],
+              "responsibilities": [
+                "Responsible for the update and maintenance of code and content for Capital Group’s American Funds Shareholder (americanfunds.com) and Retirement Planning (americanfundsretirement.com) sites.",
+                "Also responsible for coming up with and implementing innovative solutions for the websites as well as internal processes.",
+                "Managed browser baselines and ran monthly analytics via SiteCatalyst."
+              ]
+            },
+            {
+              "company": "Fidelity National Financial",
+              "title": "Web Developer",
+              "location": "Jacksonville, FL",
+              "startDate": 2006,
+              "endDate": 2007,
+              "environment": [
+                "Classic ASP",
+                "VBScript",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "ADO",
+                "SQL",
+                "SQL Server",
+                "XML",
+                "SOAP",
+                "Web Services"
+              ],
+              "responsibilities": [
+                "Responsible for the update and maintenance of web applications for Fidelity's internal and external clients such as Wells Fargo YourMortgage. \n",
+                "Responsible for planning, documenting, and implementing various project tasks and features as well as testing and reviewing tasks in development to prepare them for production.\n"
+              ]
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "heading": "Front End Languages",
+          "items": [
+            {
+              "title": "JavaScript",
+              "yearsExp": 17,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "CSS",
+              "yearsExp": 17,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "HTML",
+              "yearsExp": 19,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            }
+          ],
+          "type": "languages",
+          "icon": "fa-code"
+        },
+        {
+          "heading": "Markup Languages",
+          "items": [
+            {
+              "title": "XML",
+              "yearsExp": 11,
+              "yearLastUsed": 2014,
+              "selfRating": 8
+            },
+            {
+              "title": "HTML",
+              "yearsExp": 19,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "HTML5",
+              "yearsExp": 8,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "XHTML",
+              "yearsExp": 8,
+              "yearLastUsed": 2016,
+              "selfRating": 8
+            }
+          ],
+          "type": "languages",
+          "icon": "fa-html5"
+        },
+        {
+          "heading": "CSS / Preprocessors",
+          "items": [
+            {
+              "title": "CSS3",
+              "yearsExp": 8,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "Responsive Design",
+              "yearsExp": 5,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "SASS",
+              "yearsExp": 3,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "LESS",
+              "yearsExp": 4,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Bootstrap",
+              "yearsExp": 5,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            }
+          ],
+          "type": "languages",
+          "icon": "fa-css3"
+        },
+        {
+          "heading": "Libraries",
+          "items": [
+            {
+              "title": "jQuery",
+              "yearsExp": 9,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "Bootstrap",
+              "yearsExp": 5,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Handlebars",
+              "yearsExp": 2,
+              "yearLastUsed": 2013,
+              "selfRating": 6
+            },
+            {
+              "title": "Mustache",
+              "yearsExp": 2,
+              "yearLastUsed": 2015,
+              "selfRating": 7
+            }
+          ],
+          "type": "javascript",
+          "icon": "fa-terminal"
+        },
+        {
+          "heading": "Frameworks",
+          "items": [
+            {
+              "title": "Backbone",
+              "yearsExp": 2,
+              "yearLastUsed": 2014,
+              "selfRating": 6
+            },
+            {
+              "title": "Angular",
+              "yearsExp": 4,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Angular 2",
+              "yearsExp": 2,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "React",
+              "yearsExp": 2,
+              "yearLastUsed": 2017,
+              "selfRating": 5
+            }
+          ],
+          "type": "javascript",
+          "icon": "fa-cogs"
+        },
+        {
+          "heading": "Task Runners / Unit Testing",
+          "items": [
+            {
+              "title": "Grunt",
+              "yearsExp": 3,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Gulp",
+              "yearsExp": 3,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Jasmine",
+              "yearsExp": 3,
+              "yearLastUsed": 2016,
+              "selfRating": 6
+            },
+            {
+              "title": "Karma",
+              "yearsExp": 2,
+              "yearLastUsed": 2016,
+              "selfRating": 6
+            }
+          ],
+          "type": "javascript",
+          "icon": "fa-motorcycle "
+        },
+        {
+          "heading": "Concepts / Transpilers",
+          "items": [
+            {
+              "title": "JSON",
+              "yearsExp": 6,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "AJAX",
+              "yearsExp": 8,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Single Page Applications",
+              "yearsExp": 4,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Node",
+              "yearsExp": 4,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Functional Programming",
+              "yearsExp": 3,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "ES6",
+              "yearsExp": 2,
+              "yearLastUsed": 2017,
+              "selfRating": 6
+            },
+            {
+              "title": "TypeScript",
+              "yearsExp": 2,
+              "yearLastUsed": 2017,
+              "selfRating": 6
+            },
+            {
+              "title": "Babel",
+              "yearsExp": 1,
+              "yearLastUsed": 2017,
+              "selfRating": 5
+            }
+          ],
+          "type": "javascript",
+          "icon": "fa-lightbulb-o"
+        },
+        {
+          "heading": "Programming Languages",
+          "items": [
+            {
+              "title": "SQL",
+              "yearsExp": 10,
+              "yearLastUsed": 2014,
+              "selfRating": 7
+            },
+            {
+              "title": "Classic ASP",
+              "yearsExp": 7,
+              "yearLastUsed": 2010,
+              "selfRating": 8
+            },
+            {
+              "title": "Visual Basic",
+              "yearsExp": 2,
+              "yearLastUsed": 2005,
+              "selfRating": 4
+            },
+            {
+              "title": "VBScript",
+              "yearsExp": 7,
+              "yearLastUsed": 2010,
+              "selfRating": 7
+            },
+            {
+              "title": "ActionScript",
+              "yearsExp": 2,
+              "yearLastUsed": 2005,
+              "selfRating": 3
+            },
+            {
+              "title": "JSP",
+              "yearsExp": 7,
+              "yearLastUsed": 2016,
+              "selfRating": 7
+            },
+            {
+              "title": "PHP",
+              "yearsExp": 9,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            }
+          ],
+          "type": "languages",
+          "icon": "fa-windows"
+        },
+        {
+          "heading": "Office/Documentation",
+          "items": [
+            {
+              "title": "Microsoft Word",
+              "yearsExp": 21,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Microsoft Excel",
+              "yearsExp": 21,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Microsoft Access",
+              "yearsExp": 12,
+              "yearLastUsed": 2007,
+              "selfRating": 8
+            },
+            {
+              "title": "Microsoft Outlook",
+              "yearsExp": 18,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Microsoft PowerPoint",
+              "yearsExp": 16,
+              "yearLastUsed": 2014,
+              "selfRating": 7
+            },
+            {
+              "title": "Microsoft Project",
+              "yearsExp": 4,
+              "yearLastUsed": 2004,
+              "selfRating": 4
+            },
+            {
+              "title": "Microsoft Visio",
+              "yearsExp": 8,
+              "yearLastUsed": 2012,
+              "selfRating": 6
+            },
+            {
+              "title": "Adobe Acrobat",
+              "yearsExp": 11,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            }
+          ],
+          "type": "software",
+          "icon": "fa-file-text-o "
+        },
+        {
+          "heading": "Source Control/Bug Tracking",
+          "items": [
+            {
+              "title": "Rational ClearCase",
+              "yearsExp": 3,
+              "yearLastUsed": 2010,
+              "selfRating": 6
+            },
+            {
+              "title": "Rational ClearQuest",
+              "yearsExp": 3,
+              "yearLastUsed": 2010,
+              "selfRating": 6
+            },
+            {
+              "title": "SVN",
+              "yearsExp": 6,
+              "yearLastUsed": 2016,
+              "selfRating": 7
+            },
+            {
+              "title": "Git",
+              "yearsExp": 6,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Jira",
+              "yearsExp": 5,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Rally",
+              "yearsExp": 2,
+              "yearLastUsed": 2011,
+              "selfRating": 6
+            },
+            {
+              "title": "Workamajig",
+              "yearsExp": 1,
+              "yearLastUsed": 2011,
+              "selfRating": 4
+            },
+            {
+              "title": "Sharepoint",
+              "yearsExp": 3,
+              "yearLastUsed": 2014,
+              "selfRating": 5
+            },
+            {
+              "title": "Redmine",
+              "yearsExp": 2,
+              "yearLastUsed": 2013,
+              "selfRating": 7
+            }
+          ],
+          "type": "software",
+          "icon": "fa-code-fork"
+        },
+        {
+          "heading": "Operating Systems/Servers",
+          "items": [
+            {
+              "title": "Windows 10",
+              "yearsExp": 2,
+              "yearLastUsed": 2017,
+              "selfRating": 6
+            },
+            {
+              "title": "Windows 7",
+              "yearsExp": 6,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Windows XP Professional",
+              "yearsExp": 5,
+              "yearLastUsed": 2011,
+              "selfRating": 8
+            },
+            {
+              "title": "IIS",
+              "yearsExp": 5,
+              "yearLastUsed": 2007,
+              "selfRating": 6
+            },
+            {
+              "title": "MAC OS X",
+              "yearsExp": 9,
+              "yearLastUsed": 2017,
+              "selfRating": 9
+            },
+            {
+              "title": "MAMP",
+              "yearsExp": 7,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Weblogic",
+              "yearsExp": 3,
+              "yearLastUsed": 2010,
+              "selfRating": 5
+            }
+          ],
+          "type": "software",
+          "icon": "fa-server"
+        },
+        {
+          "heading": "Web Development / IDE's",
+          "items": [
+            {
+              "title": "Webstorm",
+              "yearsExp": 3,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Sublime Text",
+              "yearsExp": 3,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Coda",
+              "yearsExp": 5,
+              "yearLastUsed": 2012,
+              "selfRating": 8
+            },
+            {
+              "title": "Dreamweaver",
+              "yearsExp": 4,
+              "yearLastUsed": 2011,
+              "selfRating": 8
+            },
+            {
+              "title": "Flash",
+              "yearsExp": 9,
+              "yearLastUsed": 2011,
+              "selfRating": 6
+            },
+            {
+              "title": "Adobe Flex Builder",
+              "yearsExp": 2,
+              "yearLastUsed": 2010,
+              "selfRating": 6
+            },
+            {
+              "title": "Demandware UX Studio",
+              "yearsExp": 2,
+              "yearLastUsed": 2013,
+              "selfRating": 7
+            },
+            {
+              "title": "Edit Plus",
+              "yearsExp": 5,
+              "yearLastUsed": 2010,
+              "selfRating": 7
+            },
+            {
+              "title": "Microsoft Visual Studio",
+              "yearsExp": 1,
+              "yearLastUsed": 2014,
+              "selfRating": 4
+            },
+            {
+              "title": "Homesite",
+              "yearsExp": 2,
+              "yearLastUsed": 2001,
+              "selfRating": 5
+            },
+            {
+              "title": "Eclipse",
+              "yearsExp": 4,
+              "yearLastUsed": 2016,
+              "selfRating": 7
+            }
+          ],
+          "type": "software",
+          "icon": "fa-i-cursor"
+        },
+        {
+          "heading": "Content Management Systems",
+          "items": [
+            {
+              "title": "Joomla",
+              "yearsExp": 3,
+              "yearLastUsed": 2012,
+              "selfRating": 7
+            },
+            {
+              "title": "WordPress",
+              "yearsExp": 5,
+              "yearLastUsed": 2017,
+              "selfRating": 8
+            },
+            {
+              "title": "Django",
+              "yearsExp": 2,
+              "yearLastUsed": 2012,
+              "selfRating": 6
+            },
+            {
+              "title": "Demandware",
+              "yearsExp": 2,
+              "yearLastUsed": 2013,
+              "selfRating": 8
+            }
+          ],
+          "type": "software",
+          "icon": "fa-wordpress"
+        },
+        {
+          "heading": "Graphical Design",
+          "items": [
+            {
+              "title": "Adobe PhotoShop",
+              "yearsExp": 7,
+              "yearLastUsed": 2017,
+              "selfRating": 7
+            },
+            {
+              "title": "Adobe Fireworks",
+              "yearsExp": 4,
+              "yearLastUsed": 2011,
+              "selfRating": 7
+            }
+          ],
+          "type": "software",
+          "icon": "fa-camera"
+        },
+        {
+          "heading": "Databases",
+          "items": [
+            {
+              "title": "Microsoft SQL Server",
+              "yearsExp": 4,
+              "yearLastUsed": 2010,
+              "selfRating": 6
+            },
+            {
+              "title": "MYSQL",
+              "yearsExp": 5,
+              "yearLastUsed": 2015,
+              "selfRating": 7
+            },
+            {
+              "title": "MongoDB",
+              "yearsExp": 2,
+              "yearLastUsed": 2016,
+              "selfRating": 3
+            },
+            {
+              "title": "Oracle",
+              "yearsExp": 2,
+              "yearLastUsed": 2016,
+              "selfRating": 3
+            }
+          ],
+          "type": "data",
+          "icon": "fa-database"
+        },
+        {
+          "heading": "Web Analytics",
+          "items": [
+            {
+              "title": "Omniture SiteCatalyst",
+              "yearsExp": 5,
+              "yearLastUsed": 2013,
+              "selfRating": 6
+            },
+            {
+              "title": "Google Analytics",
+              "yearsExp": 6,
+              "yearLastUsed": 2017,
+              "selfRating": 6
+            },
+            {
+              "title": "Adobe Test and Target",
+              "yearsExp": 2,
+              "yearLastUsed": 2013,
+              "selfRating": 6
+            }
+          ],
+          "type": "data",
+          "icon": "fa-area-chart"
+        },
+        {
+          "heading": "Social Media API's",
+          "items": [
+            {
+              "title": "Facebook",
+              "yearsExp": 3,
+              "yearLastUsed": 2014,
+              "selfRating": 8
+            },
+            {
+              "title": "Twitter",
+              "yearsExp": 3,
+              "yearLastUsed": 2014,
+              "selfRating": 8
+            },
+            {
+              "title": "Instagram",
+              "yearsExp": 3,
+              "yearLastUsed": 2014,
+              "selfRating": 7
+            },
+            {
+              "title": "LinkedIn",
+              "yearsExp": 2,
+              "yearLastUsed": 2014,
+              "selfRating": 7
+            },
+            {
+              "title": "Flickr",
+              "yearsExp": 1,
+              "yearLastUsed": 2011,
+              "selfRating": 6
+            },
+            {
+              "title": "Google Maps",
+              "yearsExp": 3,
+              "yearLastUsed": 2015,
+              "selfRating": 8
+            },
+            {
+              "title": "YouTube",
+              "yearsExp": 4,
+              "yearLastUsed": 2016,
+              "selfRating": 8
+            },
+            {
+              "title": "Amazon",
+              "yearsExp": 1,
+              "yearLastUsed": 2012,
+              "selfRating": 7
+            },
+            {
+              "title": "SoundCloud",
+              "yearsExp": 2,
+              "yearLastUsed": 2012,
+              "selfRating": 7
+            }
+          ],
+          "type": "javascript",
+          "icon": "fa-share-alt"
+        }
+      ],
+      "sites": [
+        {
+          "notes": "<p>Every story must have a beginning, I suppose. This site was born from a combination of positive and negative energies. The positive was from a desire to share, with others around the world, parts of my Depeche Mode record collection. The negative was from the fact that MTV was alienating an entire generation of fans who loved alternative music which they promoted heavily in the 80′s and the early 90′s. Depeche Mode were one of countless other bands that MTV ignored despite their efforts just years earlier. Now Depeche have made videos throughout their entire career but among the three dozen they’ve made, very few fans have ever seen more than six of them. I created Bongbishop Central, not only to share my collection, but to also highlight a very underrated facet of the band’s output: their videos.</p><p>The site featured a detailed discography of the band based on a text file that had been passed around bulletin boards and newsgroups during the early years of the internet. I used this a means to structure the site and feature the video clips of the releases I was featuring. Soon after, my ‘big break’ came in a form of a collaboration with Alan Wilder (See Shunt). This introduced the site to thousands of Depeche Mode fans. In the months following that moment, I added exclusive video content like electronic press kits, rare television appearances, and later, full-length concerts. By 2000, Bongbishop Central was one of the elite Depeche Mode sites known the world over. The screenshot you see is the 2000 version of the site. It was a compact, graphics driven website devoid of scrollbars.</p><p>Despite the success, I felt the site needed a new name: DEPECHEMODE.TV. In 2001, I closed shop at Bongbishop Central and moved into DM.TV which perfectly describes what I do on this site. The traffic was incredible. I had over 1 million hits in the first month where it took me three years to get 3 million hits. This site is the foundation of everything I’ve done online. It started as a hobby, and now it’s a serious career.</p>",
+          "title": "Bongbishop Central",
+          "details": [
+            "Webmaster of an unofficial site dedicated to the bands Depeche Mode and Recoil, while promoting other bands related to alternative and electronic music genres.",
+            "Website received over 3 million hits between 1997 and 2000.",
+            "Authored over 200 web pages using HTML and JavaScript.",
+            "Encoded over 200 Depeche Mode and Recoil music videos, audio/video concerts, and electronic press kits into internet-ready streaming video format using Vivoactive and then in Real Media.",
+            "Created over 1500 unique image files from scanned photography, motion capture, and original artwork.",
+            "Performed site troubleshooting and technical support.",
+            "Performed testing of web pages on both Netscape and Internet Explorer browsers.",
+            "Networked with other webmasters in exchanging links."
+          ],
+          "endYear": 2000,
+          "screenshot": "./assets/images/page_bbc.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Host",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 1997,
+          "id": 36
+        },
+        {
+          "notes": "<p>Elara was the first band that I developed a site for from the ground up. They were heavily influenced by bands like Depeche Mode and Skinny Puppy. Before the website was launched, I had a few managerial type duties that I performed for them, and I also designed cover art and burned promotional CD’s for them. Once the band was better organized, the time was right to build a site. My previous work with Alan impressed them quite a bit and it was my longest run as webmaster of a site of this type.</p><p>Originally we set out to have a biography, a news archive, a photo archive, some sound samples, and the means for fans and promoters to get in contact with the band. What really got things to take of for them was when I started to use Bongbishop Center to promote them. Thousands of Depeche Mode fans took time to check out the band and many liked what they heard. Along with more shows, the band appeared on local Jacksonville television several times and played a major festival that drew 10,000.</p><p>In 2000, we decided to give the site a new domain name: ElaraEmpire.com. The band were huge Star Wars fans and locally they earned the nickname of ‘The Empire’ from their theatrical stage performances. The new site featured a darker theme and it was my first work with CSS. The CSS was key in developing the mood of the site. This new site would be my first chance at promoting a debut album release that sold out their initial production run.</p><p>In 2002, the band went into a period of inactivity. Right now the site is offline, however the band is in the studio recording a second album. Unlike the other bands that have come and gone in my career, and despite the fact I no longer live in Jacksonville, the door is open on this site. It may or may not come back; it depends on the band. The site was a big success in my career as a developer and for the band themselves. If they continue, the experience with the site will definitely be a solid foundation for them to grow on.</p>",
+          "title": "Elara Official Homepage",
+          "details": [
+            "Webmaster of official site for the band Elara.",
+            "Acquired domain name and provided web hosting services.",
+            "Authored over 200 web pages using HTML and JavaScript.",
+            "Administered site maintenance, email address administration, and web publishing.",
+            "Authored web pages using HTML and JavaScript.",
+            "Created web graphics from scanned photography, motion capture, and original artwork.",
+            "Encoded over 20 Elara television/radio apperances and live performances in Real Media and Windows Media."
+          ],
+          "endYear": 2002,
+          "screenshot": "./assets/images/page_elara.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Host",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 1998,
+          "id": 35
+        },
+        {
+          "notes": "<p>I may have made it on to the internet with Bongbishop Central but my work with Alan Wilder and Shunt made it clear that I belonged on the internet. For those that don’t know, Alan Wilder was a member of Depeche Mode between 1982 and 1995 and was the musical force behind the band. Recoil was a side project he had in between Depeche albums but when he left, it became a full-time project.</p><p>With his 1997 album Unsound Methods, he launched Shunt, his official site that he worked on himself. A few months after I added Depeche Mode videos to my website, he approached me about working with him on a collaboration featuring my videos and his band memoirs in conjunction with the upcoming greatest hits album ‘The Singles 86&gt;98′. I had a hard time saying no, needless to say. And the rest was history: it was a huge success for both our sites. It served as a way for him to close the books on his tenure with the band while giving fans a rare look at how things were for the band during his time.</p><p>Subsequent collaborations continued for the two of us. Depeche Mode released a remastered version of their first greatest hits album ‘The Singles 81&gt;85′ and Alan wrote a second set of memoirs about the earlier years of his tenure which also featured my videos. Alan also sent me a copy of his first three Recoil videos and I encoded them for him to use for both of our sites. I also helped out providing screen captures of the videos for use as graphics on Shunt.</p><p>This was, without a doubt a very special time in my life, experiencing firsthand the power of the internet to bring people closer together. In my case it was a member of my favorite band who would eventually influence me to the point of taking my hobby to the next level as a career.</p>",
+          "title": "Shunt – Official Recoil Page",
+          "details": [
+            "Created web graphics from scanned photography, motion capture, and original artwork.",
+            "Encoded Recoil music videos for viewing on the Internet.",
+            "Performed site troubleshooting and external technical support.",
+            "Performed testing of web pages on both Netscape and Internet Explorer environments.",
+            "Reviewed Internet marketing strategies and opportunities with the band."
+          ],
+          "endYear": 2001,
+          "screenshot": "./assets/images/page_shunt.png",
+          "duties": [
+            "Graphical Designer",
+            "Content Contributor",
+            "Consultant"
+          ],
+          "status": "Online",
+          "url": "http://recoil.co.uk/",
+          "startYear": 1998,
+          "id": 34
+        },
+        {
+          "notes": "<p>My work with Elara in 1998 brought me a lot of attention in town. Virus was another local band that wanted to have a global presence on the internet. The band had a lot of “spirit” and wanted that to show on their site. They were earning a good reputation for their live performances and the wanted to accentuate that and the personalities behind the band. Along with the structure of the site, I included original artwork from band members Ryan Norton and Ken Roy which made it more than a typical rock and roll band site. It was an ‘In Your Face’ type of site that left little doubt in users’ minds. The band broke up in 2000 and the site was shut down soon after. Several members went on to form X-Sister Z, for whom I built a site for.</p>",
+          "title": "Official Virus Homepage",
+          "details": [
+            "Webmaster of official site for the band Virus.",
+            "Acquired domain name and provided web hosting services.",
+            "Administered site maintenance, email address administration, and web publishing.",
+            "Authored web pages using HTML and JavaScript.",
+            "Created web graphics from scanned photography, motion capture, and original artwork.",
+            "Encoded audio recordings from the band and created internet-ready sound samples in Real Audio and MP3 formats.",
+            "Performed site troubleshooting and technical support.",
+            "Networked with other webmasters in exchanging links.",
+            "Acted as an online liaison between the band and with promoters, other musicians, site visitors, and fans of the band.",
+            "Responsible for maintaining a public news archive for the band."
+          ],
+          "endYear": 2000,
+          "screenshot": "./assets/images/page_virus.png",
+          "duties": [
+            "Webmaster",
+            "Web Host",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 1999,
+          "id": 33
+        },
+        {
+          "notes": "<p>This was a website for the band Definition, a local Jacksonville band that was receiving radio play at the time and had a regional hit. For this site, I developed a biography, news archive, contact links, guestbook, photo archive, and Real Audio samples of their music. I created a postcard shaped popup window for the contents and a simple navigation bar. This was my first experimentations with javascript. I created popup windows, mouseovers, and some DHTML effects. Some things worked better than others. This is my least favorite site I’ve developed. I was thin on content to begin with and most of the DHTML effects came out rather cheesy and it made the site more complicated than it needed to be. I would use this experience to perfect the code on other sites like ElaraEmpire.com and the 2000 version of Bongbishop Central. The band broke up in 2000, ending my working relationship with them. Nonetheless it was a good learning experience for me.</p>",
+          "title": "Definition.org",
+          "details": [
+            "Webmaster of official site for the band Definition.",
+            "Acquired domain name and provided web hosting services.",
+            "Administered site maintenance, email address administration, and web publishing.",
+            "Authored web pages using HTML and JavaScript.",
+            "Created web graphics from scanned photography, motion capture, and original artwork.",
+            "Encoded audio recordings from the band and created internet-ready sound samples in Real Audio and MP3 formats.",
+            "Performed site troubleshooting and technical support.",
+            "Performed testing of web pages on both Netscape and Internet Explorer browsers.",
+            "Developed site promotion and Internet marketing strategies with the band.",
+            "Acted as an online liaison between the band and with promoters, other musicians, site visitors, and fans of the band.",
+            "Responsible for maintaining a public news archive for the band."
+          ],
+          "endYear": 2000,
+          "screenshot": "./assets/images/page_def.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Host",
+            "Graphical Designer",
+            "Audio/Video Content Creator"
+          ],
+          "status": "Offline",
+          "startYear": 1999,
+          "id": 32
+        },
+        {
+          "notes": "<p>This is a new version of the site I first started back in 1997. The site needed a new name because the Bongbishop nickname is also a detriment to the site. So with the arrival of the .tv domains as an alternative to dot coms and the like, I decided a change to DEPECHEMODE.TV was in order for it truly describes what the experience is all about: Depeche Mode Videos.</p><p>At over 5 gigabytes of content, this was arguably the world’s largest Depeche Mode site. It was the website equivalent of the Spruce Goose, big and bulky but she flew. This site was the complete package of discography info and audio/video archives in well-organized tables. The videos were no longer offered in Vivo; they were now offered in Real and Windows Media format, allowing the user to have more viewing choices. It featured an excellent drop-down navigation system that I had customized for 200 different design schemes. Although the pages were uniformly structures, the color schemes were tailor made for their content (i.e. pages dealing with discography releases were treated with color schemes consistent with their cover art and designs).</p><p>The site was an immediate success. It was launched in January 2001 after six months worth of redesigning and received over 1 million hits in its first month. I’m very proud of how the site look and ran along with how well received it was by fans, however I made huge mistakes in the distribution of content. As you can imagine the site has been constantly plagued by server issues. I had files that were too big for distribution and should have been broken down into smaller videos. The site was put on the backburner while I set out to create a new design. I did have a new design idea in 2002 which would be used to spin off my Recoil content into its own site: recoil.tv. Consequently, I took DMTV offline temporarily when I moved to Las Vegas.</p><p>In 2004, the site made its return fully optimized. Features dynamically generated meta tags, dynamic page navigation, dynamic video displays, random image display, user initiated link exchange engine, and a fan forum. In 2005, the site won the BT Yahoo Digital Music Award for Best Music Website – Unofficial. In 2006, the site celebrated its fifth year under the DMTV domain with a relaunch featuring over 200 videos, now in Flash format. The site, at the time, became the #1 Depeche Mode website averaging over 60,000 hits a day.</p><p>In 2007, the site was relaunched again with a total redesign and reshuffling of content. What was black was now white. The audio and video offerings were then housed in its own section and given a very user-friendly navigation scheme. The discography was then given its own commentary for each release along with its own navigation. The forum was also redesigned and was given extra functionality. Forum members now can post YouTube videos along with various other media without compromising the site’s look and feel. The news page combines the Depeche Mode news that the site is known for along with hundreds of news stories from dozens of news media outlets and websites.</p><p>In 2014, the site was relaunched once again. This time, it was a responsive web application built in Angular and Bootstrap. The hosted videos gave way those hosted by Youtube. The site is now responsive and loads quickly on any phone, tablet, or desktop.</p>",
+          "title": "Depechemode.tv",
+          "details": [
+            "Webmaster of an unofficial site dedicated to Depeche Mode.",
+            "Authored web pages using ASP, VBScript, HTML, CSS, and JavaScript.",
+            "Encoded over 300 Depeche Mode music videos, audio/video concerts, rarities, and electronic press kits into internet-ready streaming video format using Flash.",
+            "Created thousands of images from scanned photography, motion capture, and original artwork.",
+            "Performed site troubleshooting and technical support.",
+            "Performed dynamic search engine optimization with several pages achieving #1 google rankings.",
+            "Setup and maintained a SQL Server based Message Board and Chatroom.",
+            "Built dynamic RSS Newsfeed and WML-based minisite based on Newsfeed.",
+            "Built special iPhone version of site"
+          ],
+          "endYear": "Present",
+          "screenshot": "./assets/images/page_dmtv2007.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Developer",
+            "Graphical Designer",
+            "Audio/Video Content Creator"
+          ],
+          "status": "Online",
+          "url": "http://www.depechemode.tv",
+          "startYear": 2000,
+          "id": 1
+        },
+        {
+          "notes": "<p>This was my 4th website for a Band. The band featured several members who were with Virus and Elara so I was able to continue those working relationships into this new project. Using the usual methods of photography and multimedia, I created a unique experience that lets the user know exactly what the band is all about, how they sound, and most importantly, how they treat their fans.</p><p>The first version of the site was set on powder blue tiles with blood red text and navigation. The second version was a collaboration with photographer Robert Sullivan. He is an outstanding photographer and I used his pictures to be at the heart of the pages of the site. I believe it is some of my strongest graphical design work to date. The second version is graphics driven whereas the first version was more or less a brochure site.</p>",
+          "title": "X-Sister Z Official Homepage",
+          "details": [
+            "Webmaster of official site for the band X-Sister Z.",
+            "Acquired domain name and provided web hosting services.",
+            "Administered site maintenance, email address administration, and web publishing.",
+            "Authored web pages using HTML, CSS, and JavaScript.",
+            "Created web graphics from scanned photography, motion capture, and original artwork.",
+            "Encoded audio recordings from the band into internet-ready sound files in MP3 format.",
+            "Performed testing of web pages on both Netscape and Internet Explorer browsers.",
+            "Developed site promotion and Internet marketing strategies with the band.",
+            "Responsible for maintaining an online public news archive for the band."
+          ],
+          "endYear": 2002,
+          "screenshot": "./assets/images/page_xsz.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Host",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 2000,
+          "id": 31
+        },
+        {
+          "notes": "<p>This is a site I built for artist Yvonne Lozano. It’s a simple brochure site that features her artwork for sale along with her resume and contact information.</p>",
+          "title": "The Artwork of Yvonne C. Lozano",
+          "details": [
+            "Webmaster of website for Jacksonville artist Yvonne C. Lozano",
+            "Authored web pages using HTML and JavaScript.",
+            "Created additional web graphics from scanned photography, motion capture, and original artwork.",
+            "Performed site troubleshooting and technical support."
+          ],
+          "endYear": 2002,
+          "screenshot": "./assets/images/page_ycl.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Graphical Designer"
+          ],
+          "status": "Offline",
+          "startYear": 2001,
+          "id": 30
+        },
+        {
+          "notes": "<p>This is a brochure site for the Orlando-based mobile entertainment company Latin Frequency. The company is the brainchild of singer/entertainer Jose Aponte. The site features a biography, pictures, samples of two original musical compositions, an outline of his services offered, and a pdf document archive featuring scanned letters of recommendation from Orlando area clients, including Walt Disney World. We felt this was an excellent selling point for his line of work. It was one thing to list them but it was even better to let his clients do the talking when it came to his work.</p>",
+          "title": "Latin Frequency",
+          "details": [
+            "Webmaster of site for Latin Frequency, a mobile entertainment company in Orlando.",
+            "Acquired domain name and provided web hosting services.",
+            "Administered site maintenance, email address administration, and web publishing.",
+            "Authored web pages using HTML and JavaScript.",
+            "Created a Flash intro and other animated graphics.",
+            "Created web graphics from scanned photography, motion capture, and original artwork.",
+            "Created a PDF documentation archive."
+          ],
+          "endYear": 2002,
+          "screenshot": "./assets/images/page_lf.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Host",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 2000,
+          "id": 29
+        },
+        {
+          "notes": "<p>This is the spinoff of Recoil material featured at DEPECHEMODE.TV. This also features the 2002 design scheme that I had planned for DM.TV but decided to use it for recoil.tv. This site was designed and launched during a span of a weekend. I used a white bordered frame layout as an homage to Alan and hisShunt site. The site is devoid of any scrollbars making it a point-and-click experience within a small central frame, making it very easy on the user’s wrists.</p><p>In 2007, to coincide with the latest Recoil release, the site was relaunched with an advanced CSS design scheme based on Yahoo’s CSS grids user library. The sections feature subnavigation that are actually bookmarks. I styled each option within an unordered list to mimic a separate page for each option selected. I also employed a javascript function that displays the flash videos while ensuring the site validates as much as possible. The news articles are being fed remotely via Shunt’s RSS feed.</p>",
+          "title": "Recoil.tv",
+          "details": [
+            "Webmaster of unofficial site for Recoil (Alan Wilder).",
+            "Authored web pages using ASP, VBscript, HTML and JavaScript.",
+            "Created additional web graphics from scanned photography, motion capture, and original artwork.",
+            "Performed site troubleshooting and technical support."
+          ],
+          "endYear": 2010,
+          "screenshot": "./assets/images/page_recoil_2007.png",
+          "duties": [
+            "Webmaster",
+            "Web Designer",
+            "Web Developer",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 2002,
+          "id": 28
+        },
+        {
+          "notes": "<p>Along with my work on intranets and internal operations with Virtual Charting, I was given the duties of webmaster for Provision Business Systems, one of our clients. I had basic webmaster duties as the site as the site was designed by one of Provision’s previous clients. This accounted for a third of my weekly workload. I left this position in the summer of 2004 to become the webmaster at Union Member Discount Services.</p>",
+          "title": "Provision Business Systems",
+          "details": [
+            "Webmaster of Provision Business Systems in charge of day to day operations of the site.",
+            "Responsible for news updates, maintaining image archive, and executive profiles."
+          ],
+          "endYear": 2004,
+          "screenshot": "./assets/images/page_prov.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer"
+          ],
+          "status": "Offline",
+          "startYear": 2004,
+          "id": 27
+        },
+        {
+          "notes": "<p>My main duties were overseeing the day to day operations of the site and to build flash banners for sponsors who purchase advertising space. The site is intended to be a network for union members to save on big ticket products and services in their area. When I arrived, the site was being done in straight HTML which led to numerous typographical errors and inconsistentcies in the look and feel of the site. I redesigned the site in ASP which allowed sponsors to be dynamically displayed in whatever territory they purchase, as well as universal consistency throughout the site. It also allowed the company to have a nationwide presence offering territories in all 50 states. I also created an admin site that interfaces with the database. This offers complete control of the site and parts of the code using several web forms.</p>",
+          "title": "Union Member Discount Services",
+          "details": [
+            "Webmaster and Web Developer for Union Member Discount Services.",
+            "Website received over 3 million hits between 1997 and 2000.",
+            "Authored web pages using ASP, VBScript, HTML, and JavaScript.",
+            "Created Flash and static image banners for sponsors.",
+            "Performed dynamic search engine optimization for all pages."
+          ],
+          "endYear": 2005,
+          "screenshot": "./assets/images/page_umds.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer"
+          ],
+          "status": "Offline",
+          "startYear": 2004,
+          "id": 26
+        },
+        {
+          "notes": "<p>My main duties were overseeing the day to day operations of the site and to build flash banners for sponsors who purchase advertising space. The site is more or less a sponsor supported christian portal meant to network christian ministries together. The site is completely dynamic and uses RSS to keep syndicated content up to date so that the site updates itself with current content.</p>",
+          "title": "The Christian Clubhouse",
+          "details": [
+            "Webmaster and Web Developer for The Christian Clubhouse.",
+            "Created database to display sponsors dynamically with their respective territories as well as church listings with their own profile and schedules.",
+            "Authored web pages using ASP, VBScript, HTML, CSS, and JavaScript.",
+            "Created Flash and static image banners for sponsors.",
+            "Performed dynamic search engine optimization for all pages."
+          ],
+          "endYear": 2006,
+          "screenshot": "./assets/images/page_tcc.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer"
+          ],
+          "status": "Offline",
+          "startYear": 2005,
+          "id": 25
+        },
+        {
+          "notes": "<p>This is an official site for the band Porcelain Black, which is my first for a band with a recording contract. They wanted a straightforward presence that would keep their fans informed of their next shows and latest recordings. The site featured a news page, a multimedia page, a photo archive and a tour dates page. This site underwent a major makeover to reflect the increased level of activity as well as encouraging more interactivity with the fan base via the fan forum setup.</p>",
+          "title": "Porcelain Black Official Page",
+          "details": [
+            "Webmaster and Web Developer for the band Porcelain Black.",
+            "Authored web pages using ASP, VBScript, HTML, CSS, and JavaScript.",
+            "Created additional web graphics from scanned photography, motion capture, and original artwork.",
+            "Performed site troubleshooting and technical support.",
+            "Authored audio and video files.",
+            "Built dynamic RSS newsfeed.",
+            "Setup and administered fan message board."
+          ],
+          "endYear": 2007,
+          "screenshot": "./assets/images/page_pbtv2.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer",
+            "Graphical Designer",
+            "Audio/Video Content Creator "
+          ],
+          "status": "Offline",
+          "startYear": 2005,
+          "id": 24
+        },
+        {
+          "notes": "<p>This is the other of two sites that I support in my work for Fidelity National Financial. This one is for Wells Fargo’s YourMortgage site. This site is a heavily visited site with over 1 million registered users. The site was already built when I was brought on board to support it.</p><p>As with ASC, I have been involved with projects in maintenance of the site. The work varied from small changes to adding new customized features to the site. Before projects were completed and tested, I was responsible for documenting them in complete detail. My work with Fidelity gave me the opportunity to work in a very structured environment with each step of each process outlined from documentation, to coding, to testing, to coordinating the rollout of completed tasks to the production website. My work with Fidelity also gave me the opportunity to work more in classic ASP and SQL Server. Experience is the greatest teacher and easily learned more about working with ASP, ADO, and SQL Server in one year than I had in the past combined, including the schooling I attended in Nevada. Each project I was assigned was treated as an opportunity to learn something new and I took full advantage of that.</p>",
+          "title": "Wells Fargo YourMortgage",
+          "details": [
+            "Web developer for Wells Fargo’s YourMortgage web site.",
+            "Authored project documentation, performed troubleshooting, and conducted code reviews.",
+            "Coordinated project migrations from the development, user acceptance testing, and production levels."
+          ],
+          "endYear": 2007,
+          "screenshot": "./assets/images/page_wells_yourmtg1.png",
+          "duties": [
+            "Web Developer",
+            "Technical Writer"
+          ],
+          "status": "Offline",
+          "startYear": 2006,
+          "id": 23
+        },
+        {
+          "notes": "<p>This is one of two sites that I support in my work for Fidelity National Financial. This one is for America’s Servicing Company. The site holds a database driven dynamic template that can support over 1000 mortgage companies affiliated under the ASC umbrella. The site is a clone of the one that is currently in use by Wells Fargo’s YourMortgage site. I was involved in cloning it and coding it to hold its dynamic features for the other affiliated companies that would support their client loans with the site. Over the past year I’ve been involved in numerous maintenance projects for the site varying from spot changes to adding new functionality. Each project completed is carefully documented and then scrutinized by management before the work is done.</p>",
+          "title": "America’s Servicing Company",
+          "details": [
+            "Web developer for America’s Servicing Company web site.",
+            "Authored project documentation, performed troubleshooting, and conducted code reviews.",
+            "Coordinated project migrations from the development, user acceptance testing, and production levels."
+          ],
+          "endYear": 2007,
+          "screenshot": "./assets/images/page_asc.png",
+          "duties": [
+            "Web Developer",
+            "Technical Writer"
+          ],
+          "status": "Offline",
+          "startYear": 2006,
+          "id": 22
+        },
+        {
+          "notes": "<p>This is a website for my father’s real estate business. The site features a database that holds property listings, property images, and customer contact information. The site also features a search through listed properties along with a detailed display of individual listings.</p>",
+          "title": "Casas Con Carino",
+          "details": [
+            "Webmaster and Web Developer for Casas Con Carino, a real estate website for my father’s business.",
+            "Setup database to handle property searches, property details, and customer contact management.",
+            "Authored web pages using ASP, VBScript, HTML, CSS, and JavaScript.",
+            "Performed site troubleshooting and technical support."
+          ],
+          "endYear": 2007,
+          "screenshot": "./assets/images/page_ccc1.png",
+          "duties": [
+            "Webmaster",
+            "Web Devloper",
+            "Graphical Designer"
+          ],
+          "status": "Offline",
+          "startYear": 2005,
+          "id": 21
+        },
+        {
+          "notes": "<p>This is website I built for the 11th Annual Fiesta Playera. This is a festival held in Jacksonville, Florida that celebrates Puerto Rican and Caribbean heritage along with hosting a day long roster of top Latin and Reggaeton artists. The festival averages over 50,000 in attendance and is moving to a larger venue to accommodate it.</p><p>I worked very closely with the festival’s founder and promoter along with the festival’s committee to create a user-friendly site that embodies the experience of the festival. Interactivity was very important so building forms to enroll volunteers, sponsors, and contest entries was paramount. A strong emphasis was placed on building forms and programming validations to ensure data was collected perfectly with every entry.</p><p>This site, along with this portfolio, are my first sites coding ASP with XHTML 1.0 Strict. This has led to some of the most efficient and effective coding I have ever done. The site is very quick to load and has a self explanatory navigation and sub navigation in place. I also used DHTML to help enhance the experience of the site, namely the dynamic countdown used for the site as well as the slideshow used on the front page. RSS has been employed to keep festival goers updated with the latest news and information. This feed is dynamically generated as news is updated to the database set up for the site.</p><p>At this point, this is arguably the best site I have built. The site is an effective application of the skills I’ve learned since starting to build websites nearly 10 years ago. Most importantly, it’s helped increase the profile and perception of the festival which has contributed greatly in obtaining major acts and sponsorships.</p>",
+          "title": "11th Annual Fiesta Playera",
+          "details": [
+            "Webmaster and Web Developer for The 11th Annual Fiesta Playera.",
+            "Created database and forms to process entries into the festival’s contests as well as to process applications for festival volunteers and sponsors.",
+            "Authored web pages using ASP, VBScript, XHTML, DHTML/CSS, and JavaScript.",
+            "Performed search engine optimization.",
+            "Performed site troubleshooting and technical support.",
+            "Built dynamic RSS newsfeed."
+          ],
+          "endYear": 2006,
+          "screenshot": "./assets/images/page_fp.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer",
+            "Graphical Designer"
+          ],
+          "status": "Offline",
+          "startYear": 2006,
+          "id": 20
+        },
+        {
+          "notes": "<p>This was a site that was done at the spur of the moment. I was hired to put together this site within three weeks of the event. This was put together in three days. I no longer maintain the site since the event has since taken place. However, the experience served me well in future time sensitive projects. The ability to build a site in a short timeframe has been essential in my growth as a developer.</p>",
+          "title": "Gainesville Homecoming Festival",
+          "details": [
+            "Webmaster and Web Developer for the Gainesville Homecoming Fest and Paella Bowl, a festival that took place in Gainesville during the University of Florida’s homecoming football game.",
+            "Authored web pages using ASP, VBScript, HTML, CSS, and JavaScript.",
+            "Performed site troubleshooting and technical support."
+          ],
+          "endYear": 2006,
+          "screenshot": "./assets/images/page_paella.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer",
+            "Graphical Designer"
+          ],
+          "status": "Offline",
+          "startYear": 2006,
+          "id": 19
+        },
+        {
+          "notes": "<p>This was the site I worked on for the majority of my time at Capital Group. This is for their American Funds Retirement Planning site. The experience was great as I was, for the first time, working inside an enterprise level web development environment. I was working in a Java environment working on content templates. My back-end experience I gained using ASP came in handy. It was also a good opportunity to sharpen my JavaScript skills as we were not allowed to use jQuery until near the end of my time with them.</p><p>I was introduced to software development methodologies like Rational Unified Process and Agile. I also gained proficiency in troubleshooting browser bugs, which lead to me strengthening my CSS skills. I managed the site’s browser baselines. This required defining the minimum level of support we’d have for certain browsers based on our traffic patterns. This also meant I needed to learn about supporting Omniture (now Adobe) SiteCatalyst. In addition, I was in charge of reviewing newly released browsers for inclusion to our baselines, along with finding and fixing any display or functional bugs found.</p>",
+          "title": "American Funds Retirement",
+          "details": [
+            "Responsible for the update and maintenance of code and content.",
+            "Also responsible for coming up with and implementing innovative solutions for the websites as well as internal processes.",
+            "Managed browser baselines and ran monthly analytics via SiteCatalyst."
+          ],
+          "endYear": 2010,
+          "screenshot": "./assets/images/page_rp.png",
+          "duties": [
+            "Front End Web Developer "
+          ],
+          "status": "Online",
+          "startYear": 2007,
+          "url": "http://americanfundsretirement.com/",
+          "id": 18
+        },
+        {
+          "notes": "<p>For the last year of my tenure with Capital Group, I had the privilege of working on the American Funds flagship site. This site consistently ranks globally within the top 50,000 sites. I was part of their site management efforts updating content and fixing bugs, very similar to my duties for the retirement planning site. It takes a great staff to keep a site like this running daily. It will always be a privilege for me that i was a part of this.</p>",
+          "title": "American Funds",
+          "details": [
+            "Responsible for the update and maintenance of code and content."
+          ],
+          "endYear": 2010,
+          "screenshot": "./assets/images/page_afs.png",
+          "duties": [
+            "Front End Web Developer "
+          ],
+          "status": "Online",
+          "startYear": 2009,
+          "url": "http://americanfunds.com/",
+          "id": 17
+        },
+        {
+          "notes": "<p>This is a site I built for Family Tax &amp; Insurance Services of San Fernando. This is a brochure site that displays the business’s services and details with a basic contact form for users to get in touch. The site was built in PHP, XHTML, CSS and jQuery.</p>",
+          "title": "Family Tax and Insurance Services",
+          "details": [
+            "Built a brochure site detailing the company’s tax and insurance services along with their location and hours of operation."
+          ],
+          "endYear": 2012,
+          "screenshot": "./assets/images/page_ftis.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer",
+            "Consultant"
+          ],
+          "status": "Online",
+          "startYear": 2009,
+          "url": "http://yourcheapinsurance.com/",
+          "id": 16
+        },
+        {
+          "notes": "<p>I was thrown right into the fire at Gorilla Nation. Upon joining them, I went to work immediately on the launch for Sherdog Training Center, which was a spinoff of the immensely popular MMA site Sherdog. This site’s focus was for all facets of MMA training. I joined midstream and was introduced to Joomla, a PHP/MYSQL-based content management system. I learned quickly and made contributions in the front end, which in turn, lead to a successful launch of the site.</p><p>I was also introduced to Agile, a software development methodology I had heard of at Capital Group and was eager to try. Needless to say, I wasn’t disappointed and have been a proponent of Agile ever since. I received additional training in Agile and always look to use it whenever possible in web development.</p>",
+          "title": "Sherdog Training Center",
+          "details": [
+            "Responsible for the update and maintenance of code and content.",
+            "Part of a successful site launch."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_stc.png",
+          "duties": [
+            "Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2010,
+          "url": "http://training.sherdog.com/",
+          "id": 15
+        },
+        {
+          "notes": "<p>This is another one of the many sites I supported for Gorilla Nation. This one is a portal for all things fashion related. Along with the day-to-day site maintenance and bug fixing, I was also involved in building and supporting several of the site’s cobranded microsites featuring coverage of some of the fashion industry’s most prominent events such as New York Fashion Week. I also worked on several of the site’s sweepstakes pages.</p>",
+          "title": "The Fashion Spot",
+          "details": [
+            "Responsible for the daily site maintenance of The Fashion Spot along with adding new features and enhancements.",
+            "Took part in developing and maintaining several of the site’s cobranded promotional microsites."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_tfs.png",
+          "duties": [
+            "Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2010,
+          "url": "http://www.thefashionspot.com/",
+          "id": 14
+        },
+        {
+          "notes": "<p>This was one of the many sites I supported for Gorilla Nation. Momtastic, a portal aimed at mothers and parenting in general, was a challenge to support as it featured a very complex and unconventional page structure and feature set. It took great patience to learn all the nuances of the site when I first joined the company as well as to gain enough proficiency in supporting it. It also took great code to make sure the site loaded and functioned smoothly. This site was in beta when I joined the company and launched a few months afterward.</p>",
+          "title": "Momtastic",
+          "details": [
+            "Responsible for the daily site maintenance of Momtastic along with adding new features and enhancements.",
+            "Took part of a successful site launch."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_mom.png",
+          "duties": [
+            "Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2010,
+          "url": "http://momtastic.com/",
+          "id": 13
+        },
+        {
+          "notes": "<p>Another one of the sites I supported during my tenure with Gorilla Nation, Superhero Hype is a top destination for all things Superhero. It was definitely a privilege to work on another prestigious site while gaining proficiency in Joomla. Not to mention, it was also fun as well.</p><p>The site is driven by its articles and how their articles and tags are being displayed. My work on this site focused on that. One standout feature of this site that I worked on what the tag cloud that graces the heroes section of the site, displaying tags by their level of importance within the site.</p>",
+          "title": "Superhero Hype",
+          "details": [
+            "Responsible for the daily site maintenance of Superhero Hype along with adding new features and enhancements."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_shh.png",
+          "duties": [
+            "Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2010,
+          "url": "http://www.superherohype.com/",
+          "id": 12
+        },
+        {
+          "notes": "<p>This was one of the many sites I supported during my time working for Gorilla Nation. Comingsoon.net in particular is one of the company’s most visited sites and one of the top destinations when it comes to movie trailers and news. Although my experience with this site was mainly site maintenance, it was no less a privilege to work on a site of this stature.</p>",
+          "title": "Comingsoon.net",
+          "details": [
+            "Responsible for the maintenance of code and content."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_csn.png",
+          "duties": [
+            "Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2010,
+          "url": "http://www.comingsoon.net/",
+          "id": 11
+        },
+        {
+          "notes": "<p>Among the sites I was a part of supporting at Gorilla Nation, Live Outdoors was the one I was able to be a part of from the ground up. The decision was made fairly early to make this site stand out from the others by leveraging the benefits of HTML5 while still using Joomla to power it. We made particular good use of embedding fonts which enabled us to faithfully reproduce what we were given by our designers with little compromise in the final product. As an added benefit, since we used Chrome as our primary development browser, the site rendered perfectly on mobile devices. The chance to launch an HTML5 site of this caliber along with integrating it with Joomla made for a great learning experience for me.</p>",
+          "title": "Live Outdoors",
+          "details": [
+            "Responsible for the maintenance of code and content.",
+            "Built a Joomla powered HTML5/CSS3 site for Live Outdoors, a portal for hunters and outdoorsmen",
+            "Part of a successful site launch."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_lo.png",
+          "duties": [
+            "Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2010,
+          "url": "http://www.liveoutdoors.com/",
+          "id": 10
+        },
+        {
+          "notes": "<p>This is a portfolio site for the artist/photographer Charmaine Chavez. The site is meant to feature her portfolio of images along with the freelance services she provides. We used wordpress so that she could control every aspect of the site and allow me to manage features of the site. It was important to have a simple template at its base to allow her pictures to feature prominently.</p>",
+          "title": "Cha Cha Photography",
+          "details": [
+            "Built an HTML5 portfolio site for artist and photographer Charmaine Chavez."
+          ],
+          "endYear": 2012,
+          "screenshot": "./assets/images/page_chacha.png",
+          "duties": [
+            "Web Developer",
+            "Consultant"
+          ],
+          "status": "Offline",
+          "startYear": 2010,
+          "id": 9
+        },
+        {
+          "notes": "<p>This is a site I built for the band Partyslayerz, which features DJ Lethal from Limp Bizkit and House of Pain. For this site, I used an HTML5/CSS3 base along with jQuery UI. The trick was to keep the Soundcloud plugin intact for users to listen to the band’s music while the user traverses the other content. So in essence, it’s a one pager with a lot of dynamic elements contained within. This is an example where less is more when leveraging the potential of social media.</p>",
+          "title": "Partyslayerz",
+          "details": [
+            "Web developer for Partyslayerz’s official web site.",
+            "Built using HTML5, jQuery, jQuery UI, and API libraries from Twitter, Facebook, and Soundcloud.",
+            "Responsible for daily site maintenance along with managing the band’s Facebook page."
+          ],
+          "endYear": 2012,
+          "screenshot": "./assets/images/page_ps.png",
+          "duties": [
+            "Webmaster",
+            "Web Developer",
+            "Consultant"
+          ],
+          "status": "Offline",
+          "startYear": 2011,
+          "id": 8
+        },
+        {
+          "notes": "<p>This is a brochure site I built for the good people at Come Spa With Me in Laguna Niguel, California. It’s a basic, straightforward brochure site that details their services and other pertinent business details. The site was built in HTML5 coded as cleanly as possible. As a result, the page loads incredibly fast on any platform.</p>",
+          "title": "Come Spa With Me",
+          "details": [
+            "Built a simple HTML5 brochure site with an emphasis on a simple elegant style, fast page load time, and be functional on both desktop and mobile platforms."
+          ],
+          "endYear": 2011,
+          "screenshot": "./assets/images/page_cswm.png",
+          "duties": [
+            "Web Developer",
+            "Consultant"
+          ],
+          "status": "Offline",
+          "startYear": 2010,
+          "id": 7
+        },
+        {
+          "notes": "<p>After working for Gorilla Nation, I accepted the position of Sr. Front End Web Developer for JobSync, an internet startup. This is my first management position where I inherited the management of the site’s front end code. Along the way, we’ve added additional functionality to accommodate as many users as possible. I was involved in the planning and execution of the front end aspects of these initiatives.</p><p>I optimized the site to be better functional in IE7 and above while leveraging as much HTML5 and CSS3 as possible in design and function. The switch in my development browser from Firefox to Chrome payed dividends as the site, once launched, was easily usable for mobile browsers in spite of not having a mobile design in place.</p><p>I also learned Python and Django to help out back end development efforts. I previously had experience with PHP and Classic ASP beforehand. It was a matter of finding the right way to articulate what I wanted to do in the new language.</p><p>Although the site is active, the site has since been redesigned. My work no longer appears on the site.</p>",
+          "title": "Jobsync",
+          "details": [
+            "Managed the updates and maintenance of front-end code for Jobsync.com.",
+            "Optimized and streamlined the codebase using HTML5/CSS3/jQuery.",
+            "Planned and implemented new features and initiatives for current and future versions of the site.",
+            "Took part in a successful startup site launch.",
+            "Learned Python and Django to help assist the back end with development."
+          ],
+          "endYear": 2012,
+          "screenshot": "./assets/images/page_js.png",
+          "duties": [
+            "Sr Front End Developer",
+            "Software Engineer"
+          ],
+          "status": "Offline",
+          "startYear": 2011,
+          "id": 6
+        },
+        {
+          "notes": "<p>This is another product line that I’ve worked on for Guthy-Renker. For this site, I’ve worked on several test and target campaigns on both desktop and mobile versions of the site.</p>",
+          "title": "X-Out",
+          "details": [
+            "Responsible for site maintenance and updates for both regular and mobile versions.",
+            "Set up Test and Target campaigns."
+          ],
+          "endYear": 2013,
+          "screenshot": "./assets/images/page_xout.png",
+          "duties": [
+            "Lead Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2012,
+          "url": "http://xout.com/",
+          "id": 5
+        },
+        {
+          "notes": "<p>This is a site I work on as part of working for Guthy-Renker. This is for Cindy Crawford’s beauty product line Meaningful Beauty. So far I’ve worked on redesigning the site as well as several promotional campaigns.</p>",
+          "title": "Meaningful Beauty",
+          "details": [
+            "Responsible for site maintenance and updates.",
+            "Took part in executing a redesign for the site.",
+            "Set up landing pages along with Test and Target campaigns."
+          ],
+          "endYear": 2013,
+          "screenshot": "./assets/images/page_meaningfulbeauty.png",
+          "duties": [
+            "Lead Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2012,
+          "url": "http://meaningfulbeauty.com/",
+          "id": 4
+        },
+        {
+          "notes": "<p>This is a site for Guthy-Renker that I work on for the Wen Hair Care product line by Chaz Dean. For this site, I’ve set up several test and target campaigns along with helping out on a redesign via Demandware.</p>",
+          "title": "Wen Hair Care",
+          "details": [
+            "Responsible for site maintenance and updates.",
+            "Took part in executing a redesign for the site.",
+            "Set up landing pages along with Test and Target campaigns."
+          ],
+          "endYear": 2013,
+          "screenshot": "./assets/images/page_wen.png",
+          "duties": [
+            "Lead Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2012,
+          "url": "http://www.wen.com/",
+          "id": 3
+        },
+        {
+          "notes": "<p>I’ve had the privilege of working on some of the internet’s busiest destinations in my career, but nothing as large as Proactiv. Naturally, I jumped at the chance when the position was offered. In the short time I’ve worked on this site, I’ve learned an entirely new platform in Demandware, which is an enterprise level eCommerce platform that combines a robust CMS with a proprietary code development platform.</p><p>This alone was more than I bargained for with this being my first eCommerce site. The challenge was essentially taking all that I know about web development and making that fit within the confines of the Demandware platform, all the while being handed tasks with tight deadlines. This meant learning the CMS along with the template language ISML and its scripting language in DWScript which all work in concert together.</p>",
+          "title": "Proactiv",
+          "details": [
+            "Responsible for site maintenance and updates for both regular and mobile versions.",
+            "Set up landing pages and single page carts for various time-sensitive campaigns.",
+            "Learned Demandware on the job in order to execute numerous promotional campaigns."
+          ],
+          "endYear": 2013,
+          "screenshot": "./assets/images/page_proactiv.png",
+          "duties": [
+            "Lead Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2012,
+          "url": "http://proactiv.com/",
+          "id": 2
+        },
+        {
+          "notes": "<p>Working on Honda's website was my primary client when I worked for Sapient Razorfish. This was a return to agency life after spending the past few years of working on internal web applications development. I worked on improving the site's front end performance along with squashing bugs.</p>",
+          "title": "Honda Automobiles",
+          "details": [
+            "Responsible for implementing UI feature development for client Honda’s website.",
+            "Performed bug fixes, performance optimization, and code cleanup.",
+            "Supported desktop, tablet and mobile devices."
+          ],
+          "endYear": 2017,
+          "screenshot": "./assets/images/page_honda.png",
+          "duties": [
+            "Senior Presentation Layer Developer"
+          ],
+          "status": "Online",
+          "startYear": 2016,
+          "url": "http://automobiles.honda.com/",
+          "id": 36
+        },
+        {
+          "notes": "<p>This was a website I worked on briefly in 2017 for a startup called Ozobot in Redondo Beach. They specialize in programmable toy robots as a means to get children into learning how to code. I maintained the site and built a wordpress blog to help marketing get their message across. I also helped evaluate third party website plugins to further help marketing's initiatives.</p>",
+          "title": "Ozobot",
+          "details": [
+            "Maintained the site's front end development.",
+            "Built wordpress blog for marketing and social media purposes",
+            "Evaluated third party plugins for marketing for inclusion into site's front end."
+          ],
+          "endYear": 2017,
+          "screenshot": "./assets/images/page_ozobot.png",
+          "duties": [
+            "Senior Front End Web Developer"
+          ],
+          "status": "Online",
+          "startYear": 2017,
+          "url": "http://ozobot.com/",
+          "id": 37
+        }
+      ]
+    }
+  }
