@@ -8,45 +8,39 @@
       ngClass.gt-sm="has-border"
     >
       <mat-toolbar color="primary">
-        <span translate routerLink="/home">APP_NAME</span>
+        <span translate routerLink="/home" class="home-link">APP_NAME</span>
         <div fxFlex></div>
         <div></div>
-        <!-- <div>
-          <button mat-icon-button [matMenuTriggerFor]="languageMenu">
-            <mat-icon>language</mat-icon>
-          </button>
-          <mat-menu #languageMenu="matMenu">
-            <button mat-menu-item *ngFor="let language of languages" (click)="setLanguage(language)">
-              {{ language }}
-            </button>
-          </mat-menu>
-        </div> -->
         <div>
-          <button mat-icon-button aria-label="Enable Light Mode" (click)="toggleTheme()" matTooltip="Enable Light Mode" *ngIf="!isDarkTheme">
+          <button mat-icon-button aria-label="Enable Light Mode" (click)="toggleTheme()" matTooltip="Enable Dark Mode" *ngIf="!isDarkTheme">
             <i class="material-icons-outlined">wb_sunny</i>
           </button>
-          <button mat-icon-button aria-label="Enable Dark Mode" (click)="toggleTheme()" matTooltip="Enable Dark Mode" *ngIf="isDarkTheme">
-              <i class="material-icons">wb_sunny</i>
-            </button>
+          <button mat-icon-button aria-label="Enable Dark Mode" (click)="toggleTheme()" matTooltip="Enable Light Mode" *ngIf="isDarkTheme">
+            <i class="material-icons">wb_sunny</i>
+          </button>
         </div>
       </mat-toolbar>
       <nav>
         <mat-list>
           <mat-divider></mat-divider>
           <a mat-list-item routerLink="/bio" routerLinkActive="active" (click)="isMobile && sidenav.close()">
-            <span translate>Bio</span>
+            <mat-icon>star</mat-icon><span translate>Bio</span>
+          </a>
+          <mat-divider></mat-divider>
+          <a mat-list-item routerLink="/timeline" routerLinkActive="active" (click)="isMobile && sidenav.close()">
+            <mat-icon>access_time</mat-icon><span translate>Timeline</span>
           </a>
           <mat-divider></mat-divider>
           <a mat-list-item routerLink="/resume" routerLinkActive="active" (click)="isMobile && sidenav.close()">
-            <span translate>Resume</span>
+            <mat-icon>person</mat-icon><span translate>Resume</span>
           </a>
           <mat-divider></mat-divider>
           <a mat-list-item routerLink="/portfolio" routerLinkActive="active" (click)="isMobile && sidenav.close()">
-            <span translate>Portfolio</span>
+            <mat-icon>work</mat-icon><span translate>Portfolio</span>
           </a>
           <mat-divider></mat-divider>
           <a mat-list-item routerLink="/skills" routerLinkActive="active" (click)="isMobile && sidenav.close()">
-            <span translate>Skills</span>
+            <mat-icon>keyboard</mat-icon><span translate>Skills</span>
           </a>
           <mat-divider></mat-divider>
         </mat-list>

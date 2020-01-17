@@ -20,7 +20,7 @@ export class ResumeComponent implements OnInit {
     let years = site.startDate
     let title = site.company;
     years += (site.endDate && site.endDate !== site.startDate) ? ' - ' + site.endDate : '';
-    return `${title}<br>(${years})`;
+    return `${title}<br><span class="year-range">(${years})</span>`;
   }
 
 }

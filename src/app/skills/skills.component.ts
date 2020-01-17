@@ -15,7 +15,6 @@ export class SkillsComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log(Sitedata.data.skills);
     this.skills = Sitedata.data.skills;
   }
 
