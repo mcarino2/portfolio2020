@@ -6,6 +6,12 @@
 
         .mat-expansion-panel-header {
             padding: 4px 24px;
+
+            .mat-card-avatar {
+                img {
+                    width: 50px;
+                }
+            }
         }
 
         .mat-expansion-panel-content {
