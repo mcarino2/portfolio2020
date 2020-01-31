@@ -3,7 +3,7 @@
         <mat-expansion-panel *ngFor="let r of skills">
             <mat-expansion-panel-header>
                 <mat-panel-title>
-                    <mat-icon>{{r.icon}}</mat-icon>&nbsp;{{r.heading}}
+                    <i class="{{r.icon}}"></i>&nbsp;{{r.heading}}
                 </mat-panel-title>
             </mat-expansion-panel-header>
             <table mat-table [dataSource]="r.items" class="mat-elevation-z8">
