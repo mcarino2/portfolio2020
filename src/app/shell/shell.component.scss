@@ -33,20 +33,22 @@
 }
 
 .shell-container {
-  $bgHeader: linear-gradient(to bottom, #181510 0%,#785f37 100%);
-  $bgLight: linear-gradient(to bottom, #cbb682 0%,#ffffff 100%);
-  $bgDark: linear-gradient(to bottom, #785f37 0%,#000000 100%);
+  $bgHeader: linear-gradient(to bottom, #181510 0%, #785f37 100%);
+  $bgLight: linear-gradient(to bottom, #cbb682 0%, #ffffff 100%);
+  $bgDark: linear-gradient(to bottom, #785f37 0%, #000000 100%);
 
   .mat-toolbar {
     background: $bgHeader;
   }
 
-  .mat-sidenav, .mat-sidenav-content {
+  .mat-sidenav,
+  .mat-sidenav-content {
     background: $bgDark;
   }
 
   &.theme-alternate {
-    .mat-sidenav, .mat-sidenav-content {
+    .mat-sidenav,
+    .mat-sidenav-content {
       background: $bgDark;
     }
   }

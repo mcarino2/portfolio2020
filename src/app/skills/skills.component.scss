@@ -1,24 +1,24 @@
 #skills {
-    padding: 1rem;
+  padding: 1rem;
 
-    ::ng-deep .mat-expansion-panel-body {
-        padding: 0;
+  ::ng-deep .mat-expansion-panel-body {
+    padding: 0;
 
-        table {
-            width: 100%;
-    
-            .mat-column-title {
-                width: 40%;
-            }
-    
-            .mat-column-yearsExp, 
-            .mat-column-selfRating {
-                width: 20%;
-            }
+    table {
+      width: 100%;
 
-            .mat-column-selfRating {
-                width: 5%;
-            }
-        }
-    } 
+      .mat-column-title {
+        width: 40%;
+      }
+
+      .mat-column-yearsExp,
+      .mat-column-selfRating {
+        width: 20%;
+      }
+
+      .mat-column-selfRating {
+        width: 5%;
+      }
+    }
+  }
 }

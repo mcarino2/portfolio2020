@@ -1,10 +1,10 @@
 <div id="timeline">
-    <mat-card *ngFor="let t of timeline">
-        <mat-card-title [innerHTML]="t.year"></mat-card-title>
-        <mat-card-content>
-            <ul>
-                <li *ngFor="let e of t.event" [innerHTML]="e"></li>
-            </ul>
-        </mat-card-content>
-    </mat-card>
+  <mat-card *ngFor="let t of timeline">
+    <mat-card-title [innerHTML]="t.year"></mat-card-title>
+    <mat-card-content>
+      <ul>
+        <li *ngFor="let e of t.event" [innerHTML]="e"></li>
+      </ul>
+    </mat-card-content>
+  </mat-card>
 </div>

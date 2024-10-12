@@ -3,10 +3,10 @@
 
   .mat-card {
     margin: 1vh 1vw 0 0;
-    
+
     &.section {
-      @media(min-width: 600px) {
-        width: 31.125vw; 
+      @media (min-width: 600px) {
+        width: 31.125vw;
         display: inline-flex;
         flex-direction: column;
 
@@ -27,7 +27,7 @@
           display: inline-block;
           width: 33px;
           padding: 2px 0 0;
-          vertical-align: text-top;        
+          vertical-align: text-top;
         }
       }
 
@@ -43,16 +43,16 @@
     }
 
     &.portrait {
-      @media(max-width: 599px) {
+      @media (max-width: 599px) {
         width: auto;
 
         img {
           width: 100%;
         }
       }
-      @media(min-width: 600px) {
+      @media (min-width: 600px) {
         display: none;
       }
-    }    
+    }
   }
 }

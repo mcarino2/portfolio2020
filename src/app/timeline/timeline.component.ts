@@ -7,13 +7,11 @@ import Sitedata from '../../assets/Sitedata.json';
   styleUrls: ['./timeline.component.scss']
 })
 export class TimelineComponent implements OnInit {
-
   timeline: any;
 
-  constructor() { }
+  constructor() {}
 
   ngOnInit() {
     this.timeline = Sitedata.data.timeline;
   }
-
 }

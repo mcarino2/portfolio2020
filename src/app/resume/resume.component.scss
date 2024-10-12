@@ -1,31 +1,31 @@
 #resume {
-    padding: 1em;
+  padding: 1em;
 
-    ::ng-deep .mat-tab-group {
-        width: 100%;
+  ::ng-deep .mat-tab-group {
+    width: 100%;
 
-        .mat-tab-label {
-            min-width: 50%;
-        }
-
-        .mat-accordion {
-            padding: 1em 0;
-    
-            .mat-expansion-panel-header {
-                padding: 4px 24px;
-            }
-    
-            .heading {
-                list-style: none;
-                margin-left: 0;
-                margin-top: 0;
-                padding-left: 0;
-            }
-
-            .year-range {
-                display: contents;
-                font-size: 0.75em;
-            }
-        }
+    .mat-tab-label {
+      min-width: 50%;
     }
+
+    .mat-accordion {
+      padding: 1em 0;
+
+      .mat-expansion-panel-header {
+        padding: 4px 24px;
+      }
+
+      .heading {
+        list-style: none;
+        margin-left: 0;
+        margin-top: 0;
+        padding-left: 0;
+      }
+
+      .year-range {
+        display: contents;
+        font-size: 0.75em;
+      }
+    }
+  }
 }

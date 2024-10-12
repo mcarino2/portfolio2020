@@ -1,44 +1,46 @@
 <div id="portfolio">
-    <mat-tab-group mat-stretch-tabs>
-            <mat-tab label="Active Sites">
-                <mat-accordion>
-                    <mat-expansion-panel *ngFor="let r of activeSites">
-                        <mat-expansion-panel-header>
-                            <mat-panel-title [innerHTML]="headerDisplay(r)"></mat-panel-title>
-                        </mat-expansion-panel-header>
-                        <a href="{{r.url}}" target="_blank" matTooltip="Open {{r.title}}"><img src="{{r.screenshot}}" alt="{{r.title}}"></a>
-                        <h4>Duties</h4>
-                        <ul>
-                            <li *ngFor="let i of r.duties" [innerHTML]="i"></li>
-                        </ul>
-                        <h4>Details</h4>
-                        <ul>
-                            <li *ngFor="let i of r.details" [innerHTML]="i"></li>
-                        </ul>
-                        <h4>Notes</h4>
-                        <div [innerHTML]="r.notes"></div>
-                    </mat-expansion-panel>
-                </mat-accordion>
-            </mat-tab>
-            <mat-tab label="Inactive Sites">
-                <mat-accordion>
-                    <mat-expansion-panel *ngFor="let r of inactiveSites">
-                        <mat-expansion-panel-header>
-                            <mat-panel-title [innerHTML]="headerDisplay(r)"></mat-panel-title>
-                        </mat-expansion-panel-header>
-                        <img src="{{r.screenshot}}" alt="{{r.title}}">
-                        <h4>Duties</h4>
-                        <ul>
-                            <li *ngFor="let i of r.duties" [innerHTML]="i"></li>
-                        </ul>
-                        <h4>Details</h4>
-                        <ul>
-                            <li *ngFor="let i of r.details" [innerHTML]="i"></li>
-                        </ul>
-                        <h4>Notes</h4>
-                        <div [innerHTML]="r.notes"></div>
-                    </mat-expansion-panel>
-                </mat-accordion>
-            </mat-tab> 
-    </mat-tab-group>
+  <mat-tab-group mat-stretch-tabs>
+    <mat-tab label="Active Sites">
+      <mat-accordion>
+        <mat-expansion-panel *ngFor="let r of activeSites">
+          <mat-expansion-panel-header>
+            <mat-panel-title [innerHTML]="headerDisplay(r)"></mat-panel-title>
+          </mat-expansion-panel-header>
+          <a href="{{ r.url }}" target="_blank" matTooltip="Open {{ r.title }}"
+            ><img src="{{ r.screenshot }}" alt="{{ r.title }}"
+          /></a>
+          <h4>Duties</h4>
+          <ul>
+            <li *ngFor="let i of r.duties" [innerHTML]="i"></li>
+          </ul>
+          <h4>Details</h4>
+          <ul>
+            <li *ngFor="let i of r.details" [innerHTML]="i"></li>
+          </ul>
+          <h4>Notes</h4>
+          <div [innerHTML]="r.notes"></div>
+        </mat-expansion-panel>
+      </mat-accordion>
+    </mat-tab>
+    <mat-tab label="Inactive Sites">
+      <mat-accordion>
+        <mat-expansion-panel *ngFor="let r of inactiveSites">
+          <mat-expansion-panel-header>
+            <mat-panel-title [innerHTML]="headerDisplay(r)"></mat-panel-title>
+          </mat-expansion-panel-header>
+          <img src="{{ r.screenshot }}" alt="{{ r.title }}" />
+          <h4>Duties</h4>
+          <ul>
+            <li *ngFor="let i of r.duties" [innerHTML]="i"></li>
+          </ul>
+          <h4>Details</h4>
+          <ul>
+            <li *ngFor="let i of r.details" [innerHTML]="i"></li>
+          </ul>
+          <h4>Notes</h4>
+          <div [innerHTML]="r.notes"></div>
+        </mat-expansion-panel>
+      </mat-accordion>
+    </mat-tab>
+  </mat-tab-group>
 </div>
